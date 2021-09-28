@@ -1,12 +1,6 @@
-body {
-    background-image: url("/img/tron-bg.jpg");
-    background-color: #212121;
-}
-
 main>.container {
     padding: 60px 15px 0;
     margin-bottom: 5rem;
-    color: honeydew;
 }
 
 .sticky-nav {
@@ -14,4 +8,14 @@ main>.container {
     left: 0;
     bottom: 0;
     width: 100%;
+}
+
+.bgImage {
+    background-image: url("/img/background.png");
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+    background-color: #212121;
 }
