@@ -10,12 +10,22 @@ main>.container {
     width: 100%;
 }
 
+.heroText {
+    font-family: modesto-open-shadow, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #ffff00;
+}
+
 .bgImage {
     background-image: url("/img/background.png");
     background-repeat: none;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
-
     background-color: #212121;
+}
+
+.minHeight {
+    min-height: 75vh;
 }
