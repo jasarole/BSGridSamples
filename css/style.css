@@ -16,10 +16,10 @@ main>.container-fluid {
 }
 
 .heroText {
-    font-family: modesto-open-shadow, sans-serif;
-    font-weight: 500;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 800;
     font-style: normal;
-    color: #ffff00;
+    color: #48bd79;
 }
 
 .bgImage {
